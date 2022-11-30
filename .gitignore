@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+
+Spotify_keys.json
+
+.cache.*
+
+.venv
